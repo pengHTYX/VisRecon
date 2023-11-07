@@ -1,0 +1,11 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "cmake>=3.16"
+]
+build-backend = "setuptools.build_meta"
+
+[tool.cibuildwheel]
+test-command = "pytest -s {project}/tests/test.py"
+test-skip = "*universal2:arm64"

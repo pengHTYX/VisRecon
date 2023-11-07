@@ -1,0 +1,28 @@
+# folder
+log/
+out/
+pretrain/
+build/
+src/utils/
+extensions/
+src/utils/
+__pycache__/
+*/__pycache__/
+
+# file
+*.out
+*.ply
+*.obj
+*.pth
+*.pt
+*.tif
+*.png
+*.jpg
+*.pyc
+*.so
+*.o
+*.ini
+
+implicit/env_sh.npy
+onnx_infer/*.onnx
+.vscode

@@ -1,0 +1,13 @@
+# Core
+trimesh
+opencv-python
+open3d
+scikit-image
+icecream
+polyscope
+tensorboardx
+
+# Viewer
+moderngl
+moderngl_window
+imgui[glfw]
