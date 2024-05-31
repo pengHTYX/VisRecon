@@ -1,4 +1,4 @@
-# Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting
+# Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting (CVPR2023)
 
 [Project Page](https://ytrock.com/vis-fuse-page/) | [Paper](https://arxiv.org/abs/2304.11900)
 
